@@ -70,7 +70,7 @@ Neste projeto, realizamos uma integração eficaz entre o Arduino, o Node-RED e 
 
 3. **Node-RED:** No Node-RED, configuramos um fluxo para receber os dados do Arduino via MQTT. Utilizamos o Node-RED para processar os dados, realizar a lógica desejada e, em seguida, transmiti-los para a plataforma TagoIO.
 
-Link para vídeo de explicação: https://www.youtube.com/watch?v=4R-H2aaJFMI
+Link para vídeo de explicação: [https://www.youtube.com/watch?v=4R-H2aaJFMI](https://youtu.be/MaPuN_rl0H0)
 
 
 ![image](https://github.com/WhipDino/Sprint3_Edge/assets/95549158/2869481a-747d-40d6-86a6-465c318f6d82)
